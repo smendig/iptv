@@ -9,7 +9,7 @@ udp://@232.100.0.6:5001
 udp://@232.100.0.11:5001
 #EXTINF:-1, Channel 13
 udp://@232.100.0.13:5001
-#EXTINF:-1, Channel 15
+#EXTINF:-1, tvg-ID="Canal 24 horas" tvg-name="Canal 24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",Canal 24 horas
 udp://@232.100.0.15:5001
 #EXTINF:-1, Channel 17
 udp://@232.100.0.17:5001
