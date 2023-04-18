@@ -1,100 +1,98 @@
 #EXTM3U
-#EXTINF:-1, Channel 4
-udp://@232.100.0.4:5001
-#EXTINF:-1, Channel 5
+#EXTINF:-1, tvg-ID="La 1 CAPV" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/269px-Logo_TVE-1.svg.png" group-title="PRINPIPALES",La 1
+udp://@232.100.0.116:5001
+#EXTINF:-1, tvg-ID="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/257px-Logo_TVE-2.svg.png" group-title="PRINPIPALES",La 2
+udp://@232.100.0.48:5001
+#EXTINF:-1, tvg-ID="Antena 3" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/279px-Antena_3_%282017%29.svg.png" group-title="PRINPIPALES",Antena 3
 udp://@232.100.0.5:5001
-#EXTINF:-1, Channel 6
-udp://@232.100.0.6:5001
-#EXTINF:-1, Channel 11
-udp://@232.100.0.11:5001
-#EXTINF:-1, Channel 13
-udp://@232.100.0.13:5001
+#EXTINF:-1, tvg-ID="Cuatro" tvg-name="Cuatro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/320px-Logotipo_de_Cuatro.svg.png" group-title="PRINPIPALES",Cuatro
+udp://@232.100.0.26:5001
+#EXTINF:-1, tvg-ID="Tele 5" tvg-name="Tele 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/240px-Telecinco.svg.png" group-title="PRINPIPALES",Tele 5
+udp://@232.100.0.71:5001
+#EXTINF:-1, tvg-ID="La sexta" tvg-name="La sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/167px-La_Sexta_%28A3M%29.svg.png" group-title="PRINPIPALES",La sexta
+udp://@232.100.0.49:5001
+#EXTINF:-1, tvg-ID="ETB1" tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/320px-ETB1_2022_logo.svg.png" group-title="PRINPIPALES",ETB1
+udp://@232.100.0.118:5001
+#EXTINF:-1, tvg-ID="ETB2" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/320px-ETB2_2022_logo.svg.png" group-title="PRINPIPALES",ETB2
+udp://@232.100.0.121:5001
 #EXTINF:-1, tvg-ID="Canal 24 horas" tvg-name="Canal 24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" group-title="NOTICIAS",Canal 24 horas
 udp://@232.100.0.15:5001
-#EXTINF:-1, Channel 17
-udp://@232.100.0.17:5001
-#EXTINF:-1, Channel 19
-udp://@232.100.0.19:5001
-#EXTINF:-1, Channel 20
-udp://@232.100.0.20:5001
-#EXTINF:-1, Channel 26
-udp://@232.100.0.26:5001
-#EXTINF:-1, Channel 30
-udp://@232.100.0.30:5001
-#EXTINF:-1, Channel 31
-udp://@232.100.0.31:5001
-#EXTINF:-1, Channel 34
-udp://@232.100.0.34:5001
-#EXTINF:-1, Channel 35
-udp://@232.100.0.35:5001
-#EXTINF:-1, Channel 37
-udp://@232.100.0.37:5001
-#EXTINF:-1, Channel 40
-udp://@232.100.0.40:5001
-#EXTINF:-1, Channel 43
-udp://@232.100.0.43:5001
-#EXTINF:-1, Channel 47
-udp://@232.100.0.47:5001
-#EXTINF:-1, Channel 48
-udp://@232.100.0.48:5001
-#EXTINF:-1, Channel 49
-udp://@232.100.0.49:5001
-#EXTINF:-1, Channel 50
-udp://@232.100.0.50:5001
-#EXTINF:-1, Channel 57
-udp://@232.100.0.57:5001
-#EXTINF:-1, Channel 60
-udp://@232.100.0.60:5001
-#EXTINF:-1, Channel 63
-udp://@232.100.0.63:5001
-#EXTINF:-1, Channel 71
-udp://@232.100.0.71:5001
-#EXTINF:-1, Channel 72
+#EXTINF:-1, Teledeporte
 udp://@232.100.0.72:5001
-#EXTINF:-1, Channel 74
+#EXTINF:-1, tvg-ID="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" group-title="GENERALISTA",Paramount Network
+udp://@232.100.0.63:5001
+#EXTINF:-1, tvg-ID="BE MAD" tvg-name="BE MAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/280px-Be_Mad_TV.svg.png" group-title="GENERALISTA",BE MAD
+udp://@232.100.0.11:5001
+#EXTINF:-1, tvg-ID="Boing" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/239px-Boing_2020.svg.png" group-title="GENERALISTA",Boing
+udp://@232.100.0.13:5001
+##EXTINF:-1, tvg-ID="Sundance TV" tvg-name="Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/320px-SundanceTVlogo.png" group-title="GENERALISTA",Sundance TV
+#udp://@232.100.0.17:5001
+#EXTINF:-1, tvg-ID="Sundance TV" tvg-name="Sundance TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/320px-SundanceTVlogo.png" group-title="GENERALISTA",Sundance TV
+udp://@232.100.0.19:5001
+#EXTINF:-1, tvg-ID="Clan" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="INFANTIL",Clan
+udp://@232.100.0.20:5001
+#EXTINF:-1, tvg-ID="DMAX" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="GENERALISTA",DMAX
+udp://@232.100.0.30:5001
+#EXTINF:-1, tvg-ID="Antena 3 Series" tvg-name="Antena 3 Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/374px-Atreseries_2020_logo.svg.png" group-title="GENERALISTA",Antena 3 Series
+udp://@232.100.0.6:5001
+#EXTINF:-1, Disney
+udp://@232.100.0.31:5001
+#EXTINF:-1, tvg-ID="Divinity" tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/164px-Divinity.svg.png" group-title="GENERALISTA",Divinity
+udp://@232.100.0.34:5001
+#EXTINF:-1, tvg-ID="DKISS" tvg-name="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/320px-DKISS_2019_logo.svg.png" group-title="GENERALISTA",DKISS
+udp://@232.100.0.35:5001
+#EXTINF:-1, Energy
+udp://@232.100.0.37:5001
+#EXTINF:-1, FDF
+udp://@232.100.0.40:5001
+#EXTINF:-1, Gol Play
+udp://@232.100.0.43:5001
+#EXTINF:-1, El toro TV
+udp://@232.100.0.47:5001
+#EXTINF:-1, tvg-ID="Mega" tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/375px-MEGA.svg.png" group-title="GENERALISTA",Mega
+udp://@232.100.0.50:5001
+#EXTINF:-1, Neox
+udp://@232.100.0.57:5001
+#EXTINF:-1, Nova
+udp://@232.100.0.60:5001
+#EXTINF:-1, Ten
 udp://@232.100.0.74:5001
-#EXTINF:-1, Channel 76
+#EXTINF:-1, Trece
 udp://@232.100.0.76:5001
-#EXTINF:-1, Channel 78
-udp://@232.100.0.78:5001
-#EXTINF:-1, Channel 79
+##EXTINF:-1, TV3
+#udp://@232.100.0.78:5001
+#EXTINF:-1, Nickelodeon
 udp://@232.100.0.79:5001
-#EXTINF:-1, Channel 94
-udp://@232.100.0.94:5001
-#EXTINF:-1, Channel 95
-udp://@232.100.0.95:5001
-#EXTINF:-1, Channel 98
+##EXTINF:-1, Taroteame
+#udp://@232.100.0.94:5001
+##EXTINF:-1, Galeria
+#udp://@232.100.0.95:5001
+#EXTINF:-1, Real Madrid TV
 udp://@232.100.0.98:5001
-#EXTINF:-1, Channel 112
-udp://@232.100.0.112:5001
-#EXTINF:-1, Channel 113
-udp://@232.100.0.113:5001
-#EXTINF:-1, Channel 114
-udp://@232.100.0.114:5001
-#EXTINF:-1, Channel 115
-udp://@232.100.0.115:5001
-#EXTINF:-1, Channel 116
-udp://@232.100.0.116:5001
-#EXTINF:-1, Channel 117
-udp://@232.100.0.117:5001
-#EXTINF:-1, Channel 118
-udp://@232.100.0.118:5001
-#EXTINF:-1, Channel 119
-udp://@232.100.0.119:5001
-#EXTINF:-1, Channel 120
-udp://@232.100.0.120:5001
-#EXTINF:-1, Channel 121
-udp://@232.100.0.121:5001
-#EXTINF:-1, Channel 122
-udp://@232.100.0.122:5001
-#EXTINF:-1, Channel 123
+##EXTINF:-1, tvg-ID="La 1 Cantabria"
+#udp://@232.100.0.112:5001
+##EXTINF:-1, La 1 Leon
+#udp://@232.100.0.113:5001
+##EXTINF:-1, La 1 La Rioja
+#udp://@232.100.0.114:5001
+##EXTINF:-1, La 1 cataluna
+#udp://@232.100.0.115:5001
+##EXTINF:-1, ETB1 Araba
+#udp://@232.100.0.117:5001
+##EXTINF:-1, ETB1 Gipuzkoa
+#udp://@232.100.0.119:5001
+##EXTINF:-1, ETB2 Araba
+#udp://@232.100.0.120:5001
+##EXTINF:-1, ETB2 Gipuzkoa
+#udp://@232.100.0.122:5001
+#EXTINF:-1, ETB3
 udp://@232.100.0.123:5001
-#EXTINF:-1, Channel 124
+#EXTINF:-1, ETB4
 udp://@232.100.0.124:5001
-#EXTINF:-1, Channel 125
+#EXTINF:-1, TV Galicia
 udp://@232.100.0.125:5001
-#EXTINF:-1, Channel 126
-udp://@232.100.0.126:5001
+##EXTINF:-1, La 1 Galicia
+#udp://@232.100.0.126:5001
 #EXTINF:-1, Channel 127
 udp://@232.100.0.127:5001
 #EXTINF:-1, Channel 128
@@ -177,3 +175,5 @@ udp://@232.100.0.185:5001
 udp://@232.100.0.186:5001
 #EXTINF:-1, Channel 188
 udp://@232.100.0.188:5001
+##EXTINF:-1, Channel 4
+#udp://@232.100.0.4:5001
